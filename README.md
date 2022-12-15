@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CeciliaWangJia.
-- 👀 I’m interested in data science,gym,dancing&youga.
+- 👀 I’m interested in data science,gym,dancing&yoga.
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on data science.
 - 📫 Feel free to message me.
